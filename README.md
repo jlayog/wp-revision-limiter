@@ -1,7 +1,7 @@
 # WordPress Revision Limiter Plugin
 
 Created a simple revision limiter for WordPress since a lot of similar plugins were behind paywalls.
-It deletes old revisions based on the limit set and limits future revisions from exceeding the limit.
+It deletes old revisions based on the limit set and limits future revisions from exceeding the limit. If a post/page revision exceeds the limit, it will delete the oldest revision.
 
 ![image](https://github.com/jlayog/wp-revision-limiter/assets/35618625/e13375c1-b6cc-45aa-bfe7-14e14c9e6cf3)
 
